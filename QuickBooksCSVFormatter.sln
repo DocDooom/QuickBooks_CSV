@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBooksCSVFormatter", "QuickBooksCSVFormatter.csproj", "{43991FC6-EF72-4127-A47C-CAF5918B8847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43991FC6-EF72-4127-A47C-CAF5918B8847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43991FC6-EF72-4127-A47C-CAF5918B8847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43991FC6-EF72-4127-A47C-CAF5918B8847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43991FC6-EF72-4127-A47C-CAF5918B8847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E43BBEF-0802-4032-80B7-F5BDA07340C8}
+	EndGlobalSection
+EndGlobal

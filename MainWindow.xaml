@@ -1,0 +1,18 @@
+﻿<Window x:Class="QuickBooksCSVFormatter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuickBooksCSVFormatter"
+        mc:Ignorable="d"
+        Title="QuickBooks CSV Formatter" Height="280" Width="505" Icon="/hhUkpz2-spanner-clipart.png" Background="DarkGray">
+    <StackPanel Margin="50">
+        <Label>Input sets folder for CSVs to be processed, Go will let you set the output folder</Label>
+        <Button Click="Button_Click" Content="Input CSV" Height="25" Width="100" Margin="20">
+        </Button>
+        <Button Content="GO" Height="25" Width="100" Margin="20" Background="Aquamarine" FontWeight="Bold" Foreground="DarkRed" Click="Button_Click_1">
+        </Button>
+        <TextBox x:Name="testOutputText">
+        </TextBox>
+    </StackPanel>
+</Window>
