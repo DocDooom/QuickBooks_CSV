@@ -1,2 +1,4 @@
 # QuickBooks_CSV
-Quick Books CSV Converter
+An app I created to convert a collection of Bank CSV statements to a format readable by QuickBooks
+
+
